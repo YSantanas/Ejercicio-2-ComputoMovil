@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Regulus</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Alumnos</string>
+    <string name="title_notifications">Profesores</string>
+    <!-- seccion de herramientas -->
+
+    <string name="title_activity_profes">Profes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="txt_btn1">Estudiantes</string>
+    <string name="txt_btn2">Profesores</string>
+    <string name="title_activity_profesores">ProfesoresActivity</string>
+    <string name="title_activity_profesor">ProfesorActivity</string>
+
+    <string name="txt_nombre">Personaje</string>
+    <string name="txt_actor">Actor</string>
+    <string name="txt_casa">Casa</string>
+    <string name="txt_patronus">Patronus</string>
+    <string name="txt_especie">Especie</string>
+    <string name="txt_status">Estatus</string>
+    <string name="txt_genero">Género</string>
+    <string name="txt_fecha">Fecha de nacimiento</string>
+    <string name="txt_ascendencia">Ascendencia</string>
+    <string name="txt_des">Desconocido</string>
+    <string name="txt_anio">Año Nacimiento</string>
+    <string name="mensaje1">Descubre tu casa</string>
+
+    <string name="txt_btn3">Perfil</string>
+    <string name="title_activity_formulario">formulario</string>
+
+
+</resources>

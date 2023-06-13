@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/color_azul" /> <!-- Color de fondo del RelativeLayout -->
+    <corners android:radius="10dp" /> <!-- Radio de los bordes redondeados -->
+</shape>
